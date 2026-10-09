@@ -1,0 +1,8 @@
+{
+  "name": "Remix Department App Portal - Hub รวมเว็บแอปประจำแผนก",
+  "description": "ศูนย์กลางทางเข้าใช้งานระบบและเว็บแอปพลิเคชันสำหรับบุคลากรภายในแผนก สะดวก รวดเร็ว พร้อมระบบจัดการแอปพลิเคชัน",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
